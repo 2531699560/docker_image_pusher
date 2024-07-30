@@ -1,1 +1,2 @@
 sonatype/nexus3:latest
+heroku/builder:latest
