@@ -1,2 +1,3 @@
 sonatype/nexus3:latest
 heroku/builder:24
+grafana/grafana-enterprise:latest
