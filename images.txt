@@ -1,3 +1,2 @@
-sonatype/nexus3:latest
-heroku/builder:24
-grafana/grafana-enterprise:latest
+woodpeckerci/woodpecker-server:latest
+woodpeckerci/woodpecker-agent:latest
