@@ -1,5 +1,3 @@
 woodpeckerci/woodpecker-server:latest
 woodpeckerci/woodpecker-agent:latest
-sickcodes/docker-osx:sonoma
-sickcodes/docker-osx:ventura
 kestra/kestra:latest
