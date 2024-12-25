@@ -1,4 +1,2 @@
-woodpeckerci/woodpecker-server:latest
-woodpeckerci/woodpecker-agent:latest
-kestra/kestra:latest
-adguard/adguardhome:latest
+drone/drone:2
+drone/drone-runner-docker:1
