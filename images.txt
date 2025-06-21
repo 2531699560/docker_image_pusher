@@ -1,2 +1,3 @@
 drone/drone:2
 drone/drone-runner-docker:1
+node:22-alpine
